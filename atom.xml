@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-04T03:17:23.594Z</updated>
+  <updated>2020-12-06T19:34:32.230Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My First Blog</title>
+    <link href="http://example.com/2020/12/06/My-First-Blog/"/>
+    <id>http://example.com/2020/12/06/My-First-Blog/</id>
+    <published>2020-12-06T19:27:10.000Z</published>
+    <updated>2020-12-06T19:34:32.230Z</updated>
+    
+    <content type="html"><![CDATA[<p>Testing the first Blog, this on add a tages is different than before.</p>]]></content>
+    
+    
+    <summary type="html">&lt;this is description, where i m&gt;</summary>
+    
+    
+    
+    
+    <category term="Life" scheme="http://example.com/tags/Life/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
